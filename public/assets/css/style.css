@@ -11258,7 +11258,7 @@ video {
 }
 
 .w-24 {
-  width: 6rem !important;
+  width: 24% !important;
 }
 
 .w-30 {
@@ -22095,7 +22095,7 @@ video {
   }
 
   .sm\:w-24 {
-    width: 6rem !important;
+    width: 24% !important;
   }
 
   .sm\:w-30 {
@@ -32915,7 +32915,7 @@ video {
   }
 
   .md\:w-24 {
-    width: 6rem !important;
+    width: 24% !important;
   }
 
   .md\:w-30 {
@@ -43735,7 +43735,7 @@ video {
   }
 
   .lg\:w-24 {
-    width: 6rem !important;
+    width: 24% !important;
   }
 
   .lg\:w-30 {
@@ -54555,7 +54555,7 @@ video {
   }
 
   .xl\:w-24 {
-    width: 6rem !important;
+    width: 24% !important;
   }
 
   .xl\:w-30 {
