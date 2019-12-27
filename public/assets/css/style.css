@@ -3869,6 +3869,14 @@ video {
   height: 30vh !important;
 }
 
+.h-screen-35 {
+  height: 35vh !important;
+}
+
+.h-screen-38 {
+  height: 38vh !important;
+}
+
 .h-screen-40 {
   height: 40vh !important;
 }
@@ -11274,7 +11282,7 @@ video {
 }
 
 .w-32 {
-  width: 8rem !important;
+  width: 32% !important;
 }
 
 .w-40 {
@@ -14712,6 +14720,14 @@ video {
 
   .sm\:h-screen-30 {
     height: 30vh !important;
+  }
+
+  .sm\:h-screen-35 {
+    height: 35vh !important;
+  }
+
+  .sm\:h-screen-38 {
+    height: 38vh !important;
   }
 
   .sm\:h-screen-40 {
@@ -22119,7 +22135,7 @@ video {
   }
 
   .sm\:w-32 {
-    width: 8rem !important;
+    width: 32% !important;
   }
 
   .sm\:w-40 {
@@ -25540,6 +25556,14 @@ video {
 
   .md\:h-screen-30 {
     height: 30vh !important;
+  }
+
+  .md\:h-screen-35 {
+    height: 35vh !important;
+  }
+
+  .md\:h-screen-38 {
+    height: 38vh !important;
   }
 
   .md\:h-screen-40 {
@@ -32947,7 +32971,7 @@ video {
   }
 
   .md\:w-32 {
-    width: 8rem !important;
+    width: 32% !important;
   }
 
   .md\:w-40 {
@@ -36368,6 +36392,14 @@ video {
 
   .lg\:h-screen-30 {
     height: 30vh !important;
+  }
+
+  .lg\:h-screen-35 {
+    height: 35vh !important;
+  }
+
+  .lg\:h-screen-38 {
+    height: 38vh !important;
   }
 
   .lg\:h-screen-40 {
@@ -43775,7 +43807,7 @@ video {
   }
 
   .lg\:w-32 {
-    width: 8rem !important;
+    width: 32% !important;
   }
 
   .lg\:w-40 {
@@ -47196,6 +47228,14 @@ video {
 
   .xl\:h-screen-30 {
     height: 30vh !important;
+  }
+
+  .xl\:h-screen-35 {
+    height: 35vh !important;
+  }
+
+  .xl\:h-screen-38 {
+    height: 38vh !important;
   }
 
   .xl\:h-screen-40 {
@@ -54603,7 +54643,7 @@ video {
   }
 
   .xl\:w-32 {
-    width: 8rem !important;
+    width: 32% !important;
   }
 
   .xl\:w-40 {
