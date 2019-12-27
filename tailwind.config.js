@@ -5,6 +5,7 @@ module.exports = {
       height: {
         'screen-1/2': '50vh',
         'screen-1/4': '25vh',
+        'screen-20': '20vh',
         'screen-30': '30vh',
         'screen-40': '40vh',
         'screen-50': '50vh',
